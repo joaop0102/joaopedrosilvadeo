@@ -20,8 +20,8 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 
 <div align="center">
   <a href="https://github.com/joaop0102">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GABRIELMESSIASDASILVA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELMESSIASDASILVA&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop0102&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop0102&layout=compact&langs_count=7&theme=dark"/>
 </div>
                                           
         
@@ -40,25 +40,6 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
     <img src="java.png">
     <img src="icons8-kotlin-48.png">
 </p>
-
-<!-- Ferramentas de desenvolvimento -->
-
-
-<!-- Banco de dados -->
-  
-<!-- Habilidade sendo adquirida -->
-  <div>
-<h2 align="center">Habilidade sendo adquirida/Linguagem por diversão</h2>
-    <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="40" height="40"/>
-     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
-
-
-  <p align="center"> Estou aprendendo a programar com Arduíno</p>
-    </p>
-  </div>
-
      
 <div> 
   <h2 align="center">Contato</h2>
