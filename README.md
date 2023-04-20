@@ -34,7 +34,7 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 
 <h2 align="center">Linguagens que estou aprendendo</h2>
 <p align="center">
-    <img src="icons8-python">
+    <img src="icons8-python.png">
     <img src="icons8-c++-48.png">
     <img src="php.png">
     <img src="java.png">
