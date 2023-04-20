@@ -44,7 +44,7 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 <div> 
   <h2 align="center">Contato</h2>
   <p align="center">
-  <a href="https://www.instagram.com/joaop5373/" target="_blank"><img src="https://icons8.com/icon/eRJfQw0Zs44S/instagram" target="_blank"></a>
+  <a href="https://www.instagram.com/joaop5373/" target="_blank"><img src="https://icons8.com/icon/ZRiAFreol5mE/instagram" target="_blank"></a>
    
 </div>
 
