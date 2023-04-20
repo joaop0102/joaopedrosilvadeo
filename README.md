@@ -36,7 +36,7 @@ Ultimamente tenho tirado tempo para estudar as linguagens PHP e Python, e també
 <p align="center">
     <img src="icons8-python.png">
     <img src="icons8-c++-48.png">
-    <img src="php.png" style="font-size: 100px;">
+    <img src="php.png" style="font-size: 50px;">
     <img src="java.png">
     <img src="icons8-kotlin-48.png">
 </p>
